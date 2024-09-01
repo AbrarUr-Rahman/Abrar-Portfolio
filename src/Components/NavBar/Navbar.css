@@ -5,6 +5,14 @@
     margin: 20px 170px;
 }
 
+/* .navbar img {
+
+    margin: -110px;
+    padding: 0;
+    position: relative;
+
+} */
+
 .nav-menu {
     display: flex;
     align-items: center;
