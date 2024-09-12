@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # Abrar Portfolio
 
 Created with the powerful tools of React+Vite & hosted using github Pages
+Live now
